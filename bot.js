@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`متاح حاليا لاستقبال المشاكل الخاص مفتوح  `,"http://twitch.tv/ahmed")
+client.user.setGame(`جميع سرفرات الهاك معطله لا تتطلب اي كود  `,"http://twitch.tv/ahmed")
 client.user.setStatus("dnd")
 });
 
